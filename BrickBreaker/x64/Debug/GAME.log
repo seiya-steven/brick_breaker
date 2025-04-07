@@ -1,0 +1,6 @@
+﻿  gamestate.cpp
+C:\C++\SDL\GAME\gamestate.cpp(344,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\C++\SDL\GAME\gamestate.cpp(345,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  GAME.vcxproj -> C:\C++\SDL\GAME\x64\Debug\BrickBreaker.exe
