@@ -1,6 +1,4 @@
 ﻿  gamestate.cpp
 C:\Users\Lenovo\OneDrive\Documents\GitHub\brick_breaker\gamestate.cpp(352,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
 C:\Users\Lenovo\OneDrive\Documents\GitHub\brick_breaker\gamestate.cpp(353,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
   GAME.vcxproj -> C:\Users\Lenovo\OneDrive\Documents\GitHub\brick_breaker\x64\Debug\BrickBreaker.exe

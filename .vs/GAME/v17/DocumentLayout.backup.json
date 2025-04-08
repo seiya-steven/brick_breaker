@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:gamestate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "gamestate.cpp",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.cpp",
               "RelativeDocumentMoniker": "gamestate.cpp",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.cpp",
               "RelativeToolTip": "gamestate.cpp",
-              "ViewState": "AgIAABEBAAAAAAAAAAAAADkBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJoBAAAAAAAAAAASwLABAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T04:36:35.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -81,8 +81,7 @@
               "RelativeToolTip": "defs.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T04:36:32.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:36:32.394Z"
             },
             {
               "$type": "Document",
