@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "gamestate.cpp",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.cpp",
               "RelativeToolTip": "gamestate.cpp",
-              "ViewState": "AgIAALQBAAAAAAAAAAAiwAsCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAADkBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T04:36:35.22Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T04:36:34.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:36:34.42Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "gamestate.h",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T04:36:33.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:36:33.681Z"
             },
             {
               "$type": "Document",
@@ -77,9 +75,9 @@
               "Title": "defs.h",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\defs.h",
               "RelativeDocumentMoniker": "defs.h",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\defs.h",
-              "RelativeToolTip": "defs.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\defs.h*",
+              "RelativeToolTip": "defs.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-07T04:36:32.394Z",
               "EditorCaption": ""
@@ -94,8 +92,7 @@
               "RelativeToolTip": "common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T04:36:31.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:36:31.807Z"
             }
           ]
         }
