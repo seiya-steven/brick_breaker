@@ -279,7 +279,7 @@ Gamestate::Gamestate()
 	ball.h = BALL_SIZE;
 
 	brick.x = brick.y = 0;
-	brick.w = brick.h = SPACING;
+	brick.w = brick.h = BRICK_SIZE;
 
 	vX = BALL_SPEED;
 	vY = BALL_SPEED;
@@ -325,7 +325,7 @@ void Gamestate::reset_bricks()
 	ball.h = BALL_SIZE;
 
 	brick.x = brick.y = 0;
-	brick.w = brick.h = SPACING;
+	brick.w = brick.h = BRICK_SIZE;
 
 	// thiết lập lại tất cả viên gạch
 	load_map();
@@ -339,8 +339,8 @@ void Gamestate::reset_bricks()
 
 void Gamestate::set_bricks(int row, int col)
 {
-	brick.x = ((col + 1) * SPACING) + (col * brick.w) - (SPACING / 2);
-	brick.y = brick.h * 3 + ((row + 1) * SPACING) + (row * brick.h) - (SPACING / 2);
+	brick.x = ((col + 1) * BRICK_SIZE) + (col * brick.w) - (BRICK_SIZE / 2);
+	brick.y = brick.h * 3 + ((row + 1) * BRICK_SIZE) + (row * brick.h) - (BRICK_SIZE / 2);
 }
 
 

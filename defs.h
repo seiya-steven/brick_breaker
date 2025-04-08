@@ -9,6 +9,6 @@ const int SCREEN_HEIGHT = 736;
 #define BALL_SIZE 32
 #define COL 15
 #define ROW 3
-#define SPACING 24
+#define BRICK_SIZE 24
 
 #endif // !DEFS_H_
