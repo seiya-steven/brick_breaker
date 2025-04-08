@@ -59,6 +59,7 @@ struct Gamestate
     SDL_Texture* load_texture(const string& path);
     SDL_Texture* render_text(const string& text, SDL_Color color);
     void set_bricks(int row, int col);
+    void load_map();
 };
 
 

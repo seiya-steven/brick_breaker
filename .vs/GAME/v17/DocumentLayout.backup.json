@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:gamestate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938E1C3E-2287-4065-B1B3-F4F97144E4E9}|GAME.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "gamestate.cpp",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.cpp",
               "RelativeToolTip": "gamestate.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAALQBAAAAAAAAAAAiwAsCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T04:36:35.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "gamestate.h",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\gamestate.h",
               "RelativeToolTip": "gamestate.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-07T04:36:33.681Z",
               "EditorCaption": ""
@@ -79,20 +79,20 @@
               "RelativeDocumentMoniker": "defs.h",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\defs.h",
               "RelativeToolTip": "defs.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-07T04:36:32.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "common.h",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\common.h",
               "RelativeDocumentMoniker": "common.h",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\brick_breaker\\common.h",
               "RelativeToolTip": "common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-07T04:36:31.807Z",
               "EditorCaption": ""

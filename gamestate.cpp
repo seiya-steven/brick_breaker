@@ -285,15 +285,29 @@ Gamestate::Gamestate()
 	vY = BALL_SPEED;
 
 	// thiết lập lại tất cả viên gạch
-	for (int i = 0; i < ROW; i++)
-	{
-		for (int j = 0; j < COL; j++)
-		{
-			bricks[i][j] = true;
-		}
-	}
+	load_map();
 
 	live_count = 3;
+}
+
+void Gamestate::load_map()
+{
+	ifstream map("map.txt");
+	if (map.is_open())
+	{
+		for (int i = 0; i < ROW; i++)
+		{
+			for (int j = 0; j < COL; j++)
+			{
+				map >> bricks[i][j];
+			}
+		}
+		map.close();
+	}
+	else
+	{
+		cout << "khong mo the mo file map" << endl;
+	}
 }
 
 void Gamestate::reset_bricks()
@@ -314,13 +328,7 @@ void Gamestate::reset_bricks()
 	brick.w = brick.h = SPACING;
 
 	// thiết lập lại tất cả viên gạch
-	for (int i = 0; i < ROW; i++)
-	{
-		for (int j = 0; j < COL; j++)
-		{
-			bricks[i][j] = true;
-		}
-	}
+	load_map();
 
 	// đặt lại số mạng
 	live_count = 3;
