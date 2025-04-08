@@ -7,9 +7,8 @@ const int SCREEN_HEIGHT = 736;
 #define SPEED 2
 #define BALL_SPEED 2
 #define BALL_SIZE 24
-#define COL 10
-#define ROW 5
-#define PI 3.14159265358979323846
+#define COL 15
+#define ROW 3
 #define SPACING 24
 
 #endif // !DEFS_H_
